@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/abdaldoosary-ops/daniel-dentist-releases/releases/download/v1.0.0/DanielDentist-Setup-1.0.0.exe",
-  "notes_ar": "الإصدار الأول",
-  "notes_en": "First release"
+  "version": "1.0.1",
+  "url": "https://github.com/abdaldoosary-ops/daniel-dentist-releases/releases/download/v1.0.1/DanielDentist-Setup-1.0.1.exe",
+  "notes_ar": "إدخال أسرع ووصفات جاهزة وإصلاح الطباعة",
+  "notes_en": "Faster entry, ready prescriptions, print fix"
 }
